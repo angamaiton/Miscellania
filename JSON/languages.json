@@ -1,0 +1,19 @@
+{
+  "languages": [
+    {
+      "id": 1,
+      "name": "Indo-European",
+      "description": "The family of most major European languages today (Latin, Greek, Sanskrit)"
+    },
+    {
+      "id": 2,
+      "name": "Altaic",
+      "description": "The theoretical family of the Turkic/Japanese languages"
+    },
+    {
+      "id": 3,
+      "name": "Sino-Tibetan",
+      "description": "The family that encompasses its namesakes Chinese and Tibetan, as well as Vietnamese"
+    }
+  ]
+}
